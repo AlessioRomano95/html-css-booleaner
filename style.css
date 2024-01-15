@@ -33,7 +33,6 @@ h1{
   color: #888888;
   font-size: 17px;
   margin-top: -10px;
-  font-weight: bold;
 }
 
 #the-b{
@@ -81,4 +80,36 @@ th{
 
 #tdceleste{
   background-color: #b1e5f2;
+}
+
+/*footer*/
+#link{
+  color: #888888;
+  font-size: 14px;
+  margin-top: 30px;
+  font-weight: bold;
+}
+
+.img-1{
+  width: 250px;
+  height: 150px;
+  background-image: url(img/monitor.jpg);
+  background-size: cover;
+  background-position: cover;
+}
+
+.img-2{
+  width: 250px;
+  height: 150px;
+  background-image: url(img/graph.jpg);
+  background-size: cover;
+  background-position: cover;
+  margin-bottom: 100px;
+}
+
+#lorem{
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  
 }
